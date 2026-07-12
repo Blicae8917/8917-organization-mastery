@@ -7,6 +7,8 @@
 > 
 > **AI 原生组织管理的工业级开源框架**
 
+> **Maintenance status (2026-07-13)**: This repository is a public theory reference. The organization's internal operating canon (constitution / protocol / roster) is maintained privately and no longer tracks this repo. 本仓为对外理论参考层；组织内部运行正本已私有维护，不再以本仓为内部正本。
+
 ---
 
 ## For Humans
